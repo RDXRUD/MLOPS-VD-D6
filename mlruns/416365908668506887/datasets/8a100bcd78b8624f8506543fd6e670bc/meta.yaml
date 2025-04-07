@@ -1,0 +1,8 @@
+digest: 5f3c600c
+name: dataset
+profile: '{"features_shape": [18, 13], "features_size": 234, "features_nbytes": 1872}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 13]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "rudrakshagarwal", "mlflow.source.name": "src/file_1.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "9543ff39b81599ebe8761bc5709d41db9409cf2c"}}'
+source_type: code

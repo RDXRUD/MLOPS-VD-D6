@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e8be61897e63470b9b1b41519e38e27f/artifacts
+end_time: 1743034932109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8be61897e63470b9b1b41519e38e27f
+run_name: sedate-hound-843
+run_uuid: e8be61897e63470b9b1b41519e38e27f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743034931566
+status: 3
+tags: []
+user_id: rudrakshagarwal

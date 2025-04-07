@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/416365908668506887/01743c32c7f240adbdd56b7b62ae4894/artifacts
+end_time: 1744058780240
+entry_point_name: ''
+experiment_id: '416365908668506887'
+lifecycle_stage: active
+run_id: 01743c32c7f240adbdd56b7b62ae4894
+run_name: stately-colt-18
+run_uuid: 01743c32c7f240adbdd56b7b62ae4894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744058777139
+status: 3
+tags: []
+user_id: rudrakshagarwal

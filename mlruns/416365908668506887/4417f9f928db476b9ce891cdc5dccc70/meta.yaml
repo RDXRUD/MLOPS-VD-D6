@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/416365908668506887/4417f9f928db476b9ce891cdc5dccc70/artifacts
+end_time: 1744058564469
+entry_point_name: ''
+experiment_id: '416365908668506887'
+lifecycle_stage: active
+run_id: 4417f9f928db476b9ce891cdc5dccc70
+run_name: rogue-ray-540
+run_uuid: 4417f9f928db476b9ce891cdc5dccc70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744058563712
+status: 3
+tags: []
+user_id: rudrakshagarwal

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/416365908668506887/3510c7952f2d49d199328716bbcf44a1/artifacts
+end_time: 1744059170231
+entry_point_name: ''
+experiment_id: '416365908668506887'
+lifecycle_stage: active
+run_id: 3510c7952f2d49d199328716bbcf44a1
+run_name: learned-gnu-805
+run_uuid: 3510c7952f2d49d199328716bbcf44a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744059166707
+status: 3
+tags: []
+user_id: rudrakshagarwal

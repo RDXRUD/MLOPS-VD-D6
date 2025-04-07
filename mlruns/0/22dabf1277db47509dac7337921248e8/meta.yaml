@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/22dabf1277db47509dac7337921248e8/artifacts
+end_time: 1743032904405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22dabf1277db47509dac7337921248e8
+run_name: intrigued-turtle-437
+run_uuid: 22dabf1277db47509dac7337921248e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743032904359
+status: 3
+tags: []
+user_id: rudrakshagarwal
